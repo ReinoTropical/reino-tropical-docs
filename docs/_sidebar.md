@@ -7,7 +7,7 @@
   - [Estratégias de Engenharia de Software](/VisaoProduto/EstrategiasDeEngenhariaDeSoftware.md)
   - [Estratégia de Engenharia de Requisitos](/VisaoProduto/EstrategiadeEngenhariaDeRequisitos.md)
   - [Requisitos](/VisaoProduto/Requisitos.md)
-  - [DoR e DoD](/VisaoProduto/DoREDoD.md)
+  - [DoR e DoD](/VisaoProduto/DorEDod.md)
   - [Backlog do Produto](/VisaoProduto/Backlog.md)
   - [Cronograma e Entregas](/VisaoProduto/CronogramaEEntregas.md)
   
