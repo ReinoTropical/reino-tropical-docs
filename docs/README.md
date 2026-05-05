@@ -1,7 +1,7 @@
 #  Reino Tropical
 
 <p align="center">
-  <img src="./src/assets/reino-tropical.jpg" alt="Banner Reino Tropical" width="60%">
+  <img src="./docs/_media/reino-tropical.jpg" alt="Banner Reino Tropical" width="60%">
 </p>
 
 <br>
