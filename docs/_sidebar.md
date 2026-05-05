@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-- [🏠 **Início**](/)
-- 📚 **Visão do Produto e Projeto**
+- [**Início**](/)
+- **Visão do Produto e Projeto**
   - [Cenário Atual do Cliente](/VisaoProduto/CenarioAtualDoCliente.md)
   - [Solução Proposta](/VisaoProduto/SolucaoProposta.md)
   - [Estratégias de Engenharia de Software](/VisaoProduto/EstrategiasDeEngenhariaDeSoftware.md)
